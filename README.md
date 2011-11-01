@@ -8,3 +8,4 @@
 * [Farid el Nasire](https://github.com/ArabCodeJunkie)
 * [Fons](https://github.com/Strexx)
 * [k3min](https://github.com/k3min)
+* [sgnl02](https://github.com/sgnl02)
