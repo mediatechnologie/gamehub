@@ -7,3 +7,4 @@
 * [Dregian](https://github.com/dregian)
 * [Farid el Nasire](https://github.com/ArabCodeJunkie)
 * [Fons](https://github.com/Strexx)
+* [k3min](https://github.com/k3min)
